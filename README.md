@@ -1,6 +1,6 @@
 # Corne v3 Keyboard Layout
 
-Just my basic layout keymap programmed using QMK Firmware. primarily for coding and gaming.
+Just my basic layout keymap programmed using QMK Firmware. Primarily for coding and gaming.
 
 # Layers
 
